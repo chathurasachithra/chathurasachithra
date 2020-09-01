@@ -39,7 +39,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 
-<br><br><br>
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurasachithra" alt="chathurasachithra" /> </p>
 
