@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Chathura Fernando</h1>
 
 ![age](https://img.shields.io/badge/age-30-blue)
-![focus](https://img.shields.io/badge/focus-full stack software engineer-brightgreen)
+![focus](https://img.shields.io/badge/focus-full_stack_software_engineer-brightgreen)
 ![living](https://img.shields.io/badge/living-colombo-3c9)
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -39,7 +39,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 
-
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurasachithra" alt="chathurasachithra" /> </p>
 
