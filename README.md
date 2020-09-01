@@ -11,29 +11,28 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as an Associate Technicle Lead at Nuclei Technologies Private Limited.
 - 💬 &nbsp; Ping me about Web technologies & Database technologies.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <br/>
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=chathurasachithra&show_icons=true">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurasachithra" alt="chathurasachithra" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurasachithra" alt="chathurasachithra" /> </p> -->
 
 <br>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
