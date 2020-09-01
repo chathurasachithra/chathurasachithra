@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as an Associate Technicle Lead at Nuclei Technologies Private Limited.
-- 💬 &nbsp; Ping me about Web technologies & Database technologies.
+- 💬 &nbsp; Ping me about web, database and cloud technologies.
 
 <br/>
 
