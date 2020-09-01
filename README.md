@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Chathura Fernando</h1>
 
 ![age](https://img.shields.io/badge/age-30-blue)
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![focus](https://img.shields.io/badge/focus-full stack software engineer-brightgreen)
 ![living](https://img.shields.io/badge/living-colombo-3c9)
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -14,9 +14,9 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chathurasachithra&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=chathurasachithra&show_icons=true"> -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurasachithra" alt="chathurasachithra" /> </p> -->
+
 
 <br>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -25,14 +25,14 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
@@ -41,7 +41,7 @@
 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurasachithra" alt="chathurasachithra" /> </p>
 
 <!--
 **chathurasachithra/chathurasachithra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
